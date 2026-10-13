@@ -5,7 +5,7 @@ brew install --cask elikplimsunu/tap/threatsketch   # the ThreatSketch app (macO
 ```
 
 ThreatSketch draws data-flow diagrams and generates Microsoft TMT's STRIDE threats as you draw.
-Source, documentation and other platforms: https://github.com/ElikplimSunu/tdtm
+Source, documentation and other platforms: https://github.com/ElikplimSunu/threatsketch
 
 The release workflow in that repository updates these files on every release. ThreatSketch also
 updates itself.

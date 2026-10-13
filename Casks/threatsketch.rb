@@ -2,10 +2,10 @@ cask "threatsketch" do
   version "0.3.0"
   sha256 "0000000000000000000000000000000000000000000000000000000000000000"
 
-  url "https://github.com/ElikplimSunu/tdtm/releases/download/v#{version}/ThreatSketch_#{version}_universal.dmg"
+  url "https://github.com/ElikplimSunu/threatsketch/releases/download/v#{version}/ThreatSketch_#{version}_universal.dmg"
   name "ThreatSketch"
   desc "Draw a data-flow diagram, get Microsoft TMT's STRIDE threats"
-  homepage "https://github.com/ElikplimSunu/tdtm"
+  homepage "https://github.com/ElikplimSunu/threatsketch"
 
   livecheck do
     url :url
