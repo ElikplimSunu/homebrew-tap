@@ -1,6 +1,6 @@
 cask "threatsketch" do
   version "0.3.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "d22560e2fb3b50b2291066569307cbe51ef74e17aee5d132125b358ef9012da6"
 
   url "https://github.com/ElikplimSunu/threatsketch/releases/download/v#{version}/ThreatSketch_#{version}_universal.dmg"
   name "ThreatSketch"
